@@ -4,7 +4,7 @@ Simple seed project to start with Javascript project.
 
 ## Includes
 
-* ES6 Compatible
+* JavaScript (ES6)
 * Babel setup
 * ESlint setup
 * Webpack 3
